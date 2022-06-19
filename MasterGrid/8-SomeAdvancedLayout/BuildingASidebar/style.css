@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 12px;
+  background: linear-gradient(to right, #57c1eb 0%, #246fa8 100%);
+  height: 100%;
+}
+
+.body {
+  height: 100%;
+  box-sizing: border-box;
+  padding: 20px 50px;
+}
+
+main {
+  height: 100%;
+}
+
+aside {
+  background: #0048AA;
+  color: #FFF;
+  font-size: 1.6rem;
+}
+
+section {
+  background: #FFF;
+}
+
+aside, section {
+  padding: 20px;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+p {
+  font-size: 1.6rem;
+  margin-top: 1.4rem;
+}

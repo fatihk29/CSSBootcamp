@@ -1,6 +1,6 @@
 # CSS GRID
 
-### no more floats or any older hacks
+### No more floats or any older hacks
 
 ### Powerful
 
@@ -11,15 +11,15 @@
 
 # CSS Flexbox and CSS Grid
 
-CSS Flexbox (one-dimensional)
+CSS Flexbox (one-dimensional),
 CSS Grid (Two-dimensional)
 
 ### CSS Grid Template
-Grid lines
-Grid gutter (gap)
-Grid track 
-Grid Cell
-Grid Area
+- Grid lines
+- Grid gutter (gap)
+- Grid track 
+- Grid Cell
+- Grid Area
 
 
 ### Fractional Unit
